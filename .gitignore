@@ -1,0 +1,51 @@
+# Visual Studio files
+.vs/
+*.sln
+*.csproj
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Visual Studio Code files
+.vscode/
+
+# ASP.NET temporary files
+aspnetcore/
+
+# NUnit / MSTest / xUnit test results
+TestResults/
+*.trx
+
+# Coverage results
+coverage/
+*.coverage
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+*.nupkg
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Other
+*.db
+*.tlog
+*.dSYM/
